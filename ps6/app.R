@@ -87,3 +87,4 @@ server <- function(input, output) {
 
 # Run the application 
 shinyApp(ui = ui, server = server)
+#https://eshabangur.shinyapps.io/ps6-shinyapp/
