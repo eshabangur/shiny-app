@@ -1,0 +1,13 @@
+name: ps6-shinyapp
+title: ps6-shinyapp
+username:
+account: eshabangur
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8485889
+bundleId: 6920433
+url: https://eshabangur.shinyapps.io/ps6-shinyapp/
+when: 1678090226.38111
+lastSyncTime: 1678090226.38113
+asMultiple: FALSE
+asStatic: FALSE
